@@ -28,7 +28,7 @@ button.addEventListener("click", function () {
     state = !state;
 });*/
 
-let colors = ["red", "orange", "yellow", "green", "blue", "purple", "pink"];
+let colors = ["rgb(248, 40, 40)", "rgb(239, 156, 62)", "rgb(234, 224, 36)", "rgb(96, 206, 74)", "rgb(49, 49, 211)", "rgb(153, 68, 189)", "rgb(248, 75, 158)"];
 
 function getColor (){
     //let index = Math.floor(Math.random() * colors.length)
